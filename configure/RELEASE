@@ -31,7 +31,7 @@ SSCAN=$(SUPPORT)
 #AUTOSAVE is needed for save_restore
 AUTOSAVE=$(SUPPORT)
 
-AREA_DETECTOR=/epics/src/areaDetectorR1-9-1
+AREA_DETECTOR=/epics/src/areadetector-1-9-1
 
 # EPICS_BASE usually appears last so other apps can override stuff:
 EPICS_BASE=/usr/lib/epics
